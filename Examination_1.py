@@ -7,3 +7,7 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 total_minutes = int(input())
+if total_minutes = 60
+    print("จำนวนชั่วโมง")
+else:
+    print("จำนวนนาทีที่เหลือ")
