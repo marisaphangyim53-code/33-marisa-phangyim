@@ -7,3 +7,7 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 password = input()
+if: >= 8
+    print("Pass")
+elif: < 8
+    print("Too Short")
